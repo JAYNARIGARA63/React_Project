@@ -39,7 +39,7 @@ function App() {
             style={{backgroundColor:"brown"}}>brown
             </button>
           </div>
-        </div>``
+        </div>
       </div>
    
   )
