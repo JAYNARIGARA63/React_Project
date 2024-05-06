@@ -1,5 +1,5 @@
 import { useState, useRef } from "react";
-import "./App.css";
+// import "./App.css";
 
 function App() {
   const btnRef = useRef();
